@@ -1,5 +1,5 @@
 # Judge-Specialist Framework for QA
-Repository for the paper "Monotonicity in Open-Domain Question Answering: A Judge-Specialist Framework", presenting a new approach to improve accuracy and robustness in multi-source QA, especially when handling noise from speech recognition.
+Repository for the paper "On Monotonic Aggregation for Open-domain QA", presenting a new approach to improve accuracy and robustness in multi-source QA, especially when handling noise from speech recognition.
 
 [Paper Link](https://arxiv.org/abs/2308.04176)
 
